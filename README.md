@@ -1,2 +1,2 @@
 # Docker
-#new way of virtual environments 
+#new way for virtual environments 
